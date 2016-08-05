@@ -1,0 +1,2 @@
+# eduRight
+Edu-Resource Recommender
