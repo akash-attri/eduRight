@@ -1,5 +1,9 @@
 # eduRight
-Educational resources recommender for undergraduate students.
-Enter name of the subject & topic... and get all top-rated video lectures, MOOC-courses and other resources.
+Edu-Resource Recommender
+PYTHON WEB CRAWLER
 
-Coming Soon...
+Provides links to educational resources like online courses, video lectures and books for any particular topic.
+
+Crawler built using the Beautiful-Soup framework goes through links on youtube and prominent MOOC providers.
+
+Standalone web application in Flask framework of Python is under development.
